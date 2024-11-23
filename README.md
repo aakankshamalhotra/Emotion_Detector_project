@@ -1,5 +1,3 @@
-# Emotion_Detector_project
-
 Hey there! Welcome to my Emotion Detector project, where I’ve combined deep learning magic with some cool tech to recognize human emotions. 
 This project uses Python, Convolutional Neural Networks (CNNs), libraries (matplotlib etc, tensorflow, sklearn, keras etc), real-time face detection with OpenCV, and a sleek deployment on Streamlit to make emotion detection simple, interactive, and fun.
 
